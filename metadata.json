@@ -1,0 +1,8 @@
+{
+  "name": "NETHAGA PRO",
+  "description": "All-in-One Key Level & Multi-Strategy Trading Hub for Gold (XAUUSD) and Forex Majors with live BIQUOTE streaming, ICT/Price Action confluence, and zero-lookahead walk-forward validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
